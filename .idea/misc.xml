@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/chery2022/CoolWeather/app/src/main/res/drawable/ic_back_background.xml" value="0.2725" />
+        <entry key="..\:/chery2022/CoolWeather/app/src/main/res/drawable/ic_back_foreground.xml" value="0.2725" />
         <entry key="..\:/chery2022/CoolWeather/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/chery2022/CoolWeather/app/src/main/res/layout/choose_area.xml" value="0.22" />
       </map>
     </option>
   </component>
